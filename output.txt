@@ -1,0 +1,1 @@
+Acest mesaj va fi scris în fișier.
